@@ -1,0 +1,11 @@
+# Country: Caribbean Netherlands (BQ)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+138.99.215.160/28
+190.4.79.224/28
+190.123.18.192/26
+200.107.87.16/28
+200.107.87.32/27
+200.107.87.64/26
+200.107.87.128/25

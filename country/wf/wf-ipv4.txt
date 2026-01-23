@@ -1,0 +1,7 @@
+# Country: Wallis & Futuna (WF)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+27.125.192.0/22
+103.235.110.0/23
+117.20.32.0/21

@@ -1,0 +1,7 @@
+# Country: Tuvalu (TV)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+14.1.69.0/24
+185.55.242.0/24
+202.2.96.0/19

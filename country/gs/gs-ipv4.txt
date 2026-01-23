@@ -1,0 +1,5 @@
+# Country: South Georgia & South Sandwich Islands (GS)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+197.215.211.32/28

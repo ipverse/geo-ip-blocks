@@ -1,0 +1,9 @@
+# Country: Sint Maarten (SX)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+72.252.8.0/21
+164.137.27.0/24
+164.137.52.0/24
+190.102.0.0/20
+201.220.0.0/20

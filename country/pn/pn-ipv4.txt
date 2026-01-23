@@ -1,0 +1,5 @@
+# Country: Pitcairn Islands (PN)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+206.83.126.0/24

@@ -1,0 +1,5 @@
+# Country: Svalbard & Jan Mayen (SJ)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+212.105.148.0/24

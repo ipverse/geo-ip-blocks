@@ -1,0 +1,6 @@
+# Country: Niue (NU)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+49.156.48.0/22
+202.59.4.0/22

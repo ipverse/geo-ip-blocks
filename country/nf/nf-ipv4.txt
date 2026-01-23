@@ -1,0 +1,10 @@
+# Country: Norfolk Island (NF)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+23.251.35.0/24
+103.43.204.0/23
+197.211.34.0/24
+197.211.42.0/24
+197.211.52.0/24
+203.142.221.0/24

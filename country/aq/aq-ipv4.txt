@@ -1,0 +1,10 @@
+# Country: Antarctica (AQ)
+# Address family: IPv4
+# Export mode: Aggregated
+#
+31.6.14.0/23
+31.6.16.0/24
+103.81.186.0/24
+166.82.73.0/24
+185.192.56.0/22
+202.144.196.0/22
