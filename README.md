@@ -12,7 +12,7 @@ Daily-updated IPv4 and IPv6 prefixes by country, derived from network registrati
 
 This dataset reflects the country codes in actual network registration records - capturing sub-allocations and reassignments (SWIP) that RIR delegation files miss. Keep in mind this is where operators *registered* their blocks, which doesn't always match where traffic actually originates.
 
-Prefixes are aggregated (adjacent and overlapping CIDR blocks are merged where possible) and filtered by size (IPv4 ≤ /28, IPv6 ≤ /56). If these lists are too large for your use case, check out [country-ip-blocks](https://github.com/ipverse/country-ip-blocks) which uses RIR delegation files and produces smaller lists.
+Prefixes are aggregated (adjacent and overlapping CIDR blocks are merged where possible) and filtered by size (IPv4 ≤ /28, IPv6 ≤ /56). If these lists are too large for your use case, check out [country-ip-blocks](https://github.com/ipverse/country-ip-blocks) which uses RIR delegation information and produces smaller lists.
 
 Available formats: JSON and plaintext
 
