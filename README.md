@@ -81,15 +81,6 @@ If you plan to use this data for firewalling purposes, have a look at:
 - [ipset-blacklist](https://github.com/trick77/ipset-blacklist) - ipset/iptables based Bash script, IPv4 only
 - [ipverse-tools-crowdsec](https://github.com/ipverse/tools/blob/main/crowdsec/README.md) - Ban prefixes using Crowdsec's `cscli` command
 
-## geo-ip-blocks vs country-ip-blocks
-
-| Feature | geo-ip-blocks | [country-ip-blocks](https://github.com/ipverse/country-ip-blocks) |
-|---------|---------------|-------------------------------------------------------------------|
-| Source | Network registration data | RIR delegation files |
-| Granularity | Network-level registrations | Country-level delegations |
-| Coverage | More prefixes (includes sub-allocations) | Fewer, larger blocks |
-| Use case | Finer-grained geo-filtering | Broad country-level blocking |
-
 ## Use cases
 - Geo-based access control and traffic routing
 - Block traffic by country at the firewall
