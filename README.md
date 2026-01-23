@@ -6,6 +6,8 @@ Look up any IP address or prefix at **[Lens by ipverse](https://lens.ipverse.net
 
 ## Overview
 
+> **New repo alert:** Don't let the star count fool you - the prefixes are here, the stars are just still propagating. Being freshly launched, there may be a few bugs crawling around. If you spot one, please report it in the [feedback repo](https://github.com/ipverse/feedback).
+
 Daily-updated IPv4 and IPv6 prefixes by country, derived from network registration data.
 
 This dataset provides more granular geolocation data than RIR delegation files alone. While [country-ip-blocks](https://github.com/ipverse/country-ip-blocks) shows which country an IP range is *delegated to*, this dataset reflects the country codes in actual network registration records - capturing sub-allocations and reassignments that delegation files miss. This typically provides a more accurate picture of where networks are actually located.
