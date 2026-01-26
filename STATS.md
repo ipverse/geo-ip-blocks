@@ -1,4 +1,4 @@
-# Geo IP Statistics
+# geo-ip-blocks Statistics
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
