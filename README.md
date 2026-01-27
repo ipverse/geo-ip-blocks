@@ -14,7 +14,13 @@ This dataset reflects the country codes in actual network registration records -
 
 Prefixes are aggregated (adjacent and overlapping CIDR blocks are merged where possible) and filtered by size (IPv4 ≤ /28, IPv6 ≤ /56). If these lists are too large for your use case, check out [country-ip-blocks](https://github.com/ipverse/country-ip-blocks) which uses RIR delegation information and produces smaller lists.
 
-Available formats: JSON and plaintext
+## Update notes
+
+- **2026-01-27**: Improved proxy record detection to filter placeholder entries that RIRs maintain for IP ranges belonging to other registries
+
+## Available formats
+
+JSON and plaintext
 
 **JSON format**:
 ```json
