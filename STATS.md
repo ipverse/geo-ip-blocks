@@ -30,7 +30,7 @@
 | Argentina (AR) | 5 489 | 1 247 | 6 736 |
 | Armenia (AM) | 243 | 109 | 352 |
 | Aruba (AW) | 38 | 30 | 68 |
-| Australia (AU) | 72 | 328 | 400 |
+| Australia (AU) | 662 | 328 | 990 |
 | Austria (AT) | 2 719 | 838 | 3 557 |
 | Azerbaijan (AZ) | 230 | 129 | 359 |
 | Bahamas (BS) | 68 | 40 | 108 |
@@ -156,7 +156,7 @@
 | Marshall Islands (MH) | 10 | 26 | 36 |
 | Martinique (MQ) | 55 | 26 | 81 |
 | Mauritania (MR) | 24 | 29 | 53 |
-| Mauritius (MU) | 316 | 31 | 347 |
+| Mauritius (MU) | 34 | 31 | 65 |
 | Mayotte (YT) | 12 | 22 | 34 |
 | Mexico (MX) | 3 468 | 335 | 3 803 |
 | Micronesia (FM) | 9 | 27 | 36 |
@@ -171,7 +171,7 @@
 | Namibia (NA) | 66 | 39 | 105 |
 | Nauru (NR) | 10 | 24 | 34 |
 | Nepal (NP) | 296 | 196 | 492 |
-| Netherlands (NL) | 5 146 | 127 | 5 273 |
+| Netherlands (NL) | 17 667 | 3 697 | 21 364 |
 | Netherlands Antilles (AN) | 22 | 0 | 22 |
 | New Caledonia (NC) | 46 | 37 | 83 |
 | New Zealand (NZ) | 1 548 | 504 | 2 052 |
@@ -257,9 +257,9 @@
 | Ukraine (UA) | 3 533 | 820 | 4 353 |
 | United Arab Emirates (AE) | 1 584 | 527 | 2 111 |
 | United Kingdom (GB) | 23 953 | 3 801 | 27 754 |
-| United States (US) | 11 534 | 3 082 | 14 616 |
+| United States (US) | 169 966 | 12 771 | 182 737 |
 | Unknown Region (ZZ) | 1 305 | 1 | 1 306 |
-| Uruguay (UY) | 386 | 38 | 424 |
+| Uruguay (UY) | 235 | 78 | 313 |
 | Uzbekistan (UZ) | 331 | 96 | 427 |
 | Vanuatu (VU) | 30 | 33 | 63 |
 | Vatican City (VA) | 10 | 46 | 56 |
@@ -272,4 +272,4 @@
 | Zambia (ZM) | 73 | 46 | 119 |
 | Zimbabwe (ZW) | 98 | 55 | 153 |
 | | | | |
-| **Total** | **373 163** | **80 579** | **453 742** |
+| **Total** | **544 273** | **93 878** | **638 151** |
