@@ -3,9 +3,7 @@
   "countryCode" : "UK",
   "exportMode" : "aggregated",
   "prefixes" : {
-    "ipv4" : [
-      "190.124.251.192/26"
-    ],
+    "ipv4" : [ "190.124.251.192/26" ],
     "ipv6" : [ ]
   }
 }
