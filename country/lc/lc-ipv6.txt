@@ -2,6 +2,7 @@
 # Address family: IPv6
 # Export mode: Aggregated
 #
+2001:505:150::/48
 2001:4b28:5b00::/40
 2401:b60:1c00::/44
 2600:7c00::/28
