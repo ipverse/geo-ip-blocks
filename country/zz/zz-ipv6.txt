@@ -1,5 +1,0 @@
-# Country: Unknown Region (ZZ)
-# Address family: IPv6
-# Export mode: Aggregated
-#
-2406:840:10::/48
