@@ -4,14 +4,14 @@
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 173 | 172 321 | 32 644 | 204 965 |
 | APNIC | Asia Pacific | 248 | 1 247 657 | 146 569 | 1 394 226 |
-| ARIN | North America | 224 | 3 133 537 | 369 795 | 3 503 332 |
-| JPNIC | Japan | 1 | 530 297 | 6 651 | 536 948 |
+| ARIN | North America | 224 | 3 133 531 | 369 799 | 3 503 330 |
+| JPNIC | Japan | 1 | 530 303 | 6 651 | 536 954 |
 | KRNIC | Korea | 1 | 4 780 | 110 | 4 890 |
-| LACNIC | Latin America & Caribbean | 98 | 485 445 | 30 304 | 515 749 |
+| LACNIC | Latin America & Caribbean | 98 | 485 462 | 30 304 | 515 766 |
 | RIPE | Europe, Middle East & Central Asia | 252 | 4 128 051 | 959 499 | 5 087 550 |
-| TWNIC | Taiwan | 1 | 86 012 | 1 642 | 87 654 |
+| TWNIC | Taiwan | 1 | 86 014 | 1 642 | 87 656 |
 | | | | | | |
-| **Total** | | **253** | **9 788 100** | **1 547 214** | **11 335 314** |
+| **Total** | | **253** | **9 788 119** | **1 547 218** | **11 335 337** |
 
 ## Prefixes by Country
 
@@ -47,7 +47,7 @@
 | Bosnia & Herzegovina (BA) | 225 | 85 | 310 |
 | Botswana (BW) | 80 | 48 | 128 |
 | Bouvet Island (BV) | 15 | 20 | 35 |
-| Brazil (BR) | 52 316 | 9 266 | 61 582 |
+| Brazil (BR) | 52 315 | 9 266 | 61 581 |
 | British Indian Ocean Territory (IO) | 5 | 23 | 28 |
 | British Virgin Islands (VG) | 341 | 52 | 393 |
 | Brunei (BN) | 54 | 36 | 90 |
@@ -66,7 +66,7 @@
 | China (CN) | 14 575 | 2 483 | 17 058 |
 | Christmas Island (CX) | 0 | 24 | 24 |
 | Cocos (Keeling) Islands (CC) | 0 | 20 | 20 |
-| Colombia (CO) | 15 794 | 813 | 16 607 |
+| Colombia (CO) | 15 795 | 813 | 16 608 |
 | Comoros (KM) | 9 | 24 | 33 |
 | Congo - Brazzaville (CG) | 54 | 44 | 98 |
 | Congo - Kinshasa (CD) | 154 | 76 | 230 |
@@ -117,11 +117,11 @@
 | Haiti (HT) | 49 | 34 | 83 |
 | Heard & McDonald Islands (HM) | 0 | 20 | 20 |
 | Honduras (HN) | 771 | 146 | 917 |
-| Hong Kong SAR China (HK) | 6 603 | 1 545 | 8 148 |
+| Hong Kong SAR China (HK) | 6 596 | 1 545 | 8 141 |
 | Hungary (HU) | 1 403 | 290 | 1 693 |
 | Iceland (IS) | 319 | 148 | 467 |
 | India (IN) | 8 857 | 3 065 | 11 922 |
-| Indonesia (ID) | 5 410 | 2 891 | 8 301 |
+| Indonesia (ID) | 5 409 | 2 891 | 8 300 |
 | Iran (IR) | 1 784 | 609 | 2 393 |
 | Iraq (IQ) | 434 | 179 | 613 |
 | Ireland (IE) | 2 523 | 410 | 2 933 |
@@ -129,7 +129,7 @@
 | Israel (IL) | 1 768 | 266 | 2 034 |
 | Italy (IT) | 14 828 | 1 443 | 16 271 |
 | Jamaica (JM) | 101 | 39 | 140 |
-| Japan (JP) | 10 372 | 1 420 | 11 792 |
+| Japan (JP) | 10 371 | 1 420 | 11 791 |
 | Jersey (JE) | 64 | 33 | 97 |
 | Jordan (JO) | 164 | 74 | 238 |
 | Kazakhstan (KZ) | 1 029 | 218 | 1 247 |
@@ -149,7 +149,7 @@
 | Macao SAR China (MO) | 77 | 91 | 168 |
 | Madagascar (MG) | 39 | 37 | 76 |
 | Malawi (MW) | 61 | 60 | 121 |
-| Malaysia (MY) | 1 446 | 437 | 1 883 |
+| Malaysia (MY) | 1 436 | 437 | 1 873 |
 | Maldives (MV) | 59 | 42 | 101 |
 | Mali (ML) | 34 | 33 | 67 |
 | Malta (MT) | 192 | 71 | 263 |
@@ -158,7 +158,7 @@
 | Mauritania (MR) | 24 | 27 | 51 |
 | Mauritius (MU) | 34 | 29 | 63 |
 | Mayotte (YT) | 11 | 21 | 32 |
-| Mexico (MX) | 3 539 | 349 | 3 888 |
+| Mexico (MX) | 3 544 | 349 | 3 893 |
 | Micronesia (FM) | 10 | 25 | 35 |
 | Moldova (MD) | 476 | 200 | 676 |
 | Monaco (MC) | 66 | 33 | 99 |
@@ -211,7 +211,7 @@
 | Serbia and Montenegro (CS) | 212 | 0 | 212 |
 | Seychelles (SC) | 341 | 303 | 644 |
 | Sierra Leone (SL) | 36 | 34 | 70 |
-| Singapore (SG) | 5 155 | 1 151 | 6 306 |
+| Singapore (SG) | 5 154 | 1 151 | 6 305 |
 | Sint Maarten (SX) | 5 | 28 | 33 |
 | Slovakia (SK) | 692 | 263 | 955 |
 | Slovenia (SI) | 611 | 226 | 837 |
@@ -256,8 +256,8 @@
 | UK (UK) | 1 | 0 | 1 |
 | Ukraine (UA) | 3 522 | 821 | 4 343 |
 | United Arab Emirates (AE) | 1 449 | 539 | 1 988 |
-| United Kingdom (GB) | 23 901 | 3 841 | 27 742 |
-| United States (US) | 170 253 | 13 096 | 183 349 |
+| United Kingdom (GB) | 23 902 | 3 841 | 27 743 |
+| United States (US) | 170 273 | 13 096 | 183 369 |
 | Uruguay (UY) | 228 | 77 | 305 |
 | Uzbekistan (UZ) | 355 | 95 | 450 |
 | Vanuatu (VU) | 28 | 32 | 60 |
@@ -271,4 +271,4 @@
 | Zambia (ZM) | 70 | 44 | 114 |
 | Zimbabwe (ZW) | 99 | 55 | 154 |
 | | | | |
-| **Total** | **546 072** | **95 368** | **641 440** |
+| **Total** | **546 078** | **95 368** | **641 446** |
