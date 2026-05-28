@@ -2,7 +2,6 @@
 # Address family: IPv4
 # Export mode: Aggregated
 #
-32.59.85.160/28
 57.74.100.0/23
 66.165.162.48/28
 66.165.172.208/28
