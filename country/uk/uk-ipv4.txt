@@ -2,4 +2,5 @@
 # Address family: IPv4
 # Export mode: Aggregated
 #
+143.137.1.0/24
 190.124.251.192/26
