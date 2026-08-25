@@ -6,8 +6,6 @@ Look up any IP address or prefix at **[Lens by ipverse](https://lens.ipverse.net
 
 ## Overview
 
-> **New repo alert:** Don't let the star count fool you - the prefixes are here, the stars are just still propagating. Being freshly launched, there may be a few bugs crawling around. If you spot one, please report it in the [feedback repo](https://github.com/ipverse/feedback).
-
 Daily-updated IPv4 and IPv6 prefixes by country, derived from network registration data.
 
 This dataset reflects the country codes in actual network registration records - capturing sub-allocations and reassignments (SWIP) that RIR delegation files miss. Keep in mind this is where operators *registered* their blocks, which doesn't always match where traffic actually originates.
@@ -105,7 +103,3 @@ If you plan to use this data for firewalling purposes, have a look at:
 ## Questions or issues?
 
 Head over to the [feedback repository](https://github.com/ipverse/feedback) if you have questions, issues, or suggestions.
-
-## License
-
-This data is released under [CC0 1.0 Universal](LICENSE).
