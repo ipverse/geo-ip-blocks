@@ -1447,8 +1447,9 @@
 2a0e:acc0:ad1a::/47
 2a0e:acc0:ad1c::/46
 2a0e:acc0:ad21::/48
-2a0e:acc0:ad22::/47
-2a0e:acc0:ad24::/46
+2a0e:acc0:ad22::/48
+2a0e:acc0:ad25::/48
+2a0e:acc0:ad26::/47
 2a0e:acc0:ad28::/45
 2a0e:acc0:ad30::/44
 2a0e:acc0:ad40::/42
