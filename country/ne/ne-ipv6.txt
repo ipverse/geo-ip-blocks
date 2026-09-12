@@ -2,6 +2,7 @@
 # Address family: IPv6
 # Export mode: Aggregated
 #
+2001:43fe:1800::/48
 2001:4b28:3900::/40
 2401:b60:1a50::/44
 2406:9dc0:70::/44
