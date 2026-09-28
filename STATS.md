@@ -30,7 +30,7 @@
 | Argentina (AR) | 6 610 | 1 336 | 7 946 |
 | Armenia (AM) | 308 | 201 | 509 |
 | Aruba (AW) | 12 | 29 | 41 |
-| Australia (AU) | 77 243 | 88 771 | 166 014 |
+| Australia (AU) | 32 240 | 88 771 | 121 011 |
 | Austria (AT) | 3 863 | 1 592 | 5 455 |
 | Azerbaijan (AZ) | 308 | 174 | 482 |
 | Bahamas (BS) | 76 | 47 | 123 |
@@ -101,7 +101,7 @@
 | Gabon (GA) | 40 | 39 | 79 |
 | Gambia (GM) | 34 | 49 | 83 |
 | Georgia (GE) | 457 | 187 | 644 |
-| Germany (DE) | 29 394 | 12 908 | 42 302 |
+| Germany (DE) | 29 395 | 12 908 | 42 303 |
 | Ghana (GH) | 204 | 102 | 306 |
 | Gibraltar (GI) | 86 | 53 | 139 |
 | Greece (GR) | 862 | 325 | 1 187 |
@@ -156,7 +156,7 @@
 | Marshall Islands (MH) | 14 | 25 | 39 |
 | Martinique (MQ) | 70 | 28 | 98 |
 | Mauritania (MR) | 26 | 32 | 58 |
-| Mauritius (MU) | 1 301 | 7 453 | 8 754 |
+| Mauritius (MU) | 1 316 | 7 453 | 8 769 |
 | Mayotte (YT) | 11 | 23 | 34 |
 | Mexico (MX) | 8 745 | 371 | 9 116 |
 | Micronesia (FM) | 10 | 27 | 37 |
@@ -256,7 +256,7 @@
 | UK (UK) | 2 | 0 | 2 |
 | Ukraine (UA) | 4 016 | 1 331 | 5 347 |
 | United Arab Emirates (AE) | 1 710 | 1 055 | 2 765 |
-| United Kingdom (GB) | 33 760 | 14 035 | 47 795 |
+| United Kingdom (GB) | 33 758 | 14 035 | 47 793 |
 | United States (US) | 148 663 | 23 424 | 172 087 |
 | Uruguay (UY) | 260 | 100 | 360 |
 | Uzbekistan (UZ) | 372 | 105 | 477 |
@@ -271,4 +271,4 @@
 | Zambia (ZM) | 93 | 48 | 141 |
 | Zimbabwe (ZW) | 116 | 60 | 176 |
 | | | | |
-| **Total** | **668 012** | **255 909** | **923 921** |
+| **Total** | **623 023** | **255 909** | **878 932** |
