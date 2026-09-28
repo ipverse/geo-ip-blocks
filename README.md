@@ -14,6 +14,7 @@ Prefixes are aggregated (adjacent and overlapping CIDR blocks are merged where p
 
 ## Update notes
 
+- **2026-09-28**: Fixed large ranges of foreign and unallocated IPv4 space being attributed to Australia and Mauritius; reserved ranges (documentation, benchmarking, CGNAT) are no longer included
 - **2026-01-27**: Improved proxy record detection to filter placeholder entries that RIRs maintain for IP ranges belonging to other registries
 
 ## Available formats
